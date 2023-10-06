@@ -1,0 +1,3 @@
+
+RewriteEngine On
+RewriteRule ^api/link$ https://paikat.te-palvelut.fi/tpt-api/v1/tyopaikat.rss [P]
